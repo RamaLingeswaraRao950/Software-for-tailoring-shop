@@ -76,7 +76,7 @@ Ensure you have a web server like XAMPP or WAMP installed.
     
 Clone the repo
 
-git clone https://github.com/your-username/omex-tailors.git
+git clone https://github.com/RamaLingeswaraRao950/Software-for-tailoring-shop.git
 
 Open the project in your preferred IDE or text editor.
 
