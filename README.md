@@ -81,17 +81,3 @@ git clone https://github.com/RamaLingeswaraRao950/Software-for-tailoring-shop.gi
 Open the project in your preferred IDE or text editor.
 
 Serve the project using a local web server to view it in the browser.
-
-12. Contributing
-    
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
